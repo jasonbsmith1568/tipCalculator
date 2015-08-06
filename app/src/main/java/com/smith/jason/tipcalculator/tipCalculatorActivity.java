@@ -16,6 +16,7 @@ public class tipCalculatorActivity extends AppCompatActivity
 implements OnEditorActionListener, OnClickListener{
 
     //define variables for the widgets
+    //frustrating
     private TextView percentTextView;
     private EditText billAmountEditText;
     private TextView tipTextView;
